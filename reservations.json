@@ -1,0 +1,9 @@
+[
+    {
+        "customer_name": "John Doe",
+        "hotel_name": "Test Hotel",
+        "room_type": "Single",
+        "check_in": "2024-02-20",
+        "check_out": "2024-02-25"
+    }
+]
